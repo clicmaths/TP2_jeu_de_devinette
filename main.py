@@ -1,10 +1,6 @@
 #variables
 import random
-#borne_minimale = int(input("entrez la borne minimale\n"))
-#borne_maximale = int(input("entrez la borne maximale\n"))
-#nombre = random.randint(borne_minimale,borne_maximale)
-#essai = int(input("entrez un chiffre de " + str(borne_minimale) +" à "+ str(borne_maximale) +"\n"))
-#nbessai = 0
+
 reponse = 'oui'
 
 #programme
